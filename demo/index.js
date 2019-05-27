@@ -18,5 +18,4 @@ render(html`
   
   <tm-hand-drawn-outline><div>:-)</div></tm-hand-drawn-outline>
   
-
 `, document.querySelector('body'));
